@@ -22,9 +22,9 @@
 }
 .escola{
   
-    background-image: linear-gradient(rgb(186,44,215),rgb(106,6,64)
+    background-image: linear-gradient(rgb(186,44,215),rgb(106,6,64);
     color: white;
-    disṕlay:flex;
+    display: flex;
 }
 
 .texto-escola{front-size: 20px;}
