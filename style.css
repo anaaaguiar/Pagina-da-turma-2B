@@ -47,11 +47,18 @@
 .estudante-imagem{
     width: 120px;
 }
-.estudante-icone
 
+.estudante-icone{
+width: 120px;
+}
 
+.estudante-icone{
+    width:20px ;
+}
 
-
+.estudante-titulo{
+    text-align: center;
+}
 
 
 
