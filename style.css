@@ -66,7 +66,7 @@ width: 120px;
 }
 
 
-.estudantes-todos{
+.estudante-todos{
     display: grid;
     grid-template-columns:33% 33% 33% ;
 }
