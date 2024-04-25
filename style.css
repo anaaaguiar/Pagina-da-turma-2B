@@ -66,7 +66,10 @@ width: 120px;
 }
 
 
-
+.estudantes-todos{
+    display: grid;
+    grid-template-columns:33% 33% 33% ;
+}
 
 
 
